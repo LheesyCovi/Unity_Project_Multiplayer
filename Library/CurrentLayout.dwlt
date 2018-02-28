@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 5}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 521}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -67,10 +67,10 @@ MonoBehaviour:
     y: 0
     width: 386
     height: 987
-  m_MinSize: {x: 232, y: 492}
-  m_MaxSize: {x: 10002, y: 14042}
+  m_MinSize: {x: 232, y: 471}
+  m_MaxSize: {x: 10002, y: 14021}
   vertical: 1
-  controlID: 64
+  controlID: 34
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -161,10 +161,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 987
-  m_MinSize: {x: 713, y: 492}
-  m_MaxSize: {x: 18008, y: 14042}
+  m_MinSize: {x: 713, y: 471}
+  m_MaxSize: {x: 18008, y: 14021}
   vertical: 0
-  controlID: 89
+  controlID: 9
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -208,7 +208,7 @@ MonoBehaviour:
   m_MinSize: {x: 204, y: 442}
   m_MaxSize: {x: 4004, y: 8042}
   vertical: 1
-  controlID: 90
+  controlID: 10
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -312,6 +312,7 @@ MonoBehaviour:
     y: 92
     width: 275
     height: 756
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_InitialOpenURL: https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
   m_GlobalObjectTypeName: 
   m_RegisteredViewURLs:
@@ -344,6 +345,7 @@ MonoBehaviour:
     y: 92
     width: 1087
     height: 535
+  m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -370,6 +372,7 @@ MonoBehaviour:
     y: 402
     width: 929
     height: 446
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_AnimEditor: {fileID: 0}
   m_Locked: 0
 --- !u!114 &16
@@ -398,11 +401,12 @@ MonoBehaviour:
     y: 92
     width: 384
     height: 532
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 8017f9ff72cff9ffaee5f9ffb6e5f9ff4af3f9ff4ef3f9ff0e70fbff706efdff2a0ffeff2c0ffeff340ffeff5ef4ffff00000000
+    m_ExpandedIDs: 20d6ffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -451,6 +455,7 @@ MonoBehaviour:
     y: 92
     width: 357
     height: 966
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
@@ -484,12 +489,14 @@ MonoBehaviour:
     y: 645
     width: 384
     height: 413
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
     m_VersionControlStates: []
+    m_SoftLockControlStates: []
     m_ReferencingInstanceIDs: 
     m_ScenePaths: []
     m_ShowAllHits: 0
@@ -501,13 +508,13 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Prefabs
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\tim\Desktop\MultiPlayer (1)\MultiPlayer
+  m_LastProjectPath: C:\Users\black\Desktop\unity projekt\Unity_Project_Multiplayer
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ec290000
-    m_LastClickedID: 10732
-    m_ExpandedIDs: 000000001e2800000a2a0000582b00005a2b00005c2b00005e2b0000602b0000622b000000ca9a3bffffff7f
+    m_SelectedIDs: f0330000
+    m_LastClickedID: 13296
+    m_ExpandedIDs: 000000003c330000fa330000b0340000b2340000b4340000b6340000b8340000ba34000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -535,7 +542,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001e280000ec2900000a2a0000582b00005a2b00005c2b00005e2b0000602b0000622b0000
+    m_ExpandedIDs: 000000003c330000fa330000b0340000b2340000b4340000b6340000b8340000ba340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -587,7 +594,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 110}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 110
 --- !u!114 &19
@@ -616,6 +623,7 @@ MonoBehaviour:
     y: 601
     width: 1171
     height: 457
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
@@ -692,6 +700,7 @@ MonoBehaviour:
     y: 92
     width: 1171
     height: 488
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
   lastFramingTime: 1483.2495066243912
   m_2DMode: 0
@@ -709,6 +718,7 @@ MonoBehaviour:
     showSkybox: 1
     showFlares: 1
     showImageEffects: 1
+    showParticleSystems: 1
   grid:
     xGrid:
       m_Target: 0
@@ -723,17 +733,18 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.12039789, y: 0.8137961, z: -0.18189378, w: -0.5386621}
+    m_Target: {x: -0.032968007, y: 0.9494452, z: -0.10668695, w: -0.29339013}
     speed: 2
-    m_Value: {x: -0.12039778, y: 0.8137953, z: -0.1818936, w: -0.53866154}
+    m_Value: {x: -0.032968126, y: 0.9494486, z: -0.10668733, w: -0.29339117}
   m_Size:
-    m_Target: 26.269318
+    m_Target: 69.14425
     speed: 2
-    m_Value: 26.269318
+    m_Value: 69.14425
   m_Ortho:
     m_Target: 1
     speed: 2
     m_Value: 1
+  m_ShowGlobalGrid: 1
   m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
